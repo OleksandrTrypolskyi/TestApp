@@ -63,6 +63,9 @@ public class App {
         final List<Point> points1 = points.stream().peek(System.out::println).toList();
 
 
+        Added some changes:::::
+
+
     }
 }
 
